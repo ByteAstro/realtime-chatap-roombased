@@ -1,4 +1,2 @@
-- A simple code editor (JS) 
-that has realtime editing functionality
-by multiple users in a room based system
+- A simple Chat app
 - It uses socket.io for communication
